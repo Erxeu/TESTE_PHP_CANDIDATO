@@ -1,0 +1,30 @@
+.body
+{
+    display: grid;
+    grid-row: auto;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+.form
+{
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.title
+{
+    color: black;
+}
+
+.text
+{
+    color: #322f2f;
+}
+
+.text-result
+{
+    color: #322f2f;
+    background-color: white;
+    width: auto;
+    height: auto;
+}
